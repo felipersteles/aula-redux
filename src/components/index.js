@@ -1,7 +1,7 @@
 import { Card } from "./Card";
-import { Intervalo } from "./Intervalo";
-import { Media } from "./Media";
-import { Sorteio } from "./Sorteio";
-import { Soma } from "./Soma";
+import Intervalo from "./Intervalo/Intervalo";
+import Sorteio from "./Sorteio/Sorteio";
+import Soma from "./Soma/Soma";
+import Media from "./Media/Media";
 
-export { Card, Intervalo, Media, Soma, Sorteio };
+export { Card, Intervalo, Soma, Media, Sorteio };

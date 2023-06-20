@@ -1,5 +1,5 @@
 import "./App.css";
-import { Intervalo, Media, Soma, Sorteio } from "./components";
+import { Intervalo, Sorteio, Soma, Media } from "./components";
 
 function App() {
   return (
